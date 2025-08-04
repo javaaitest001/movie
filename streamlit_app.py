@@ -63,7 +63,7 @@ def recommend_movie(pivot, data, movies, user_id, n=2):
 
 # main
 def main():
-    st.title("사용자 기반 영화 추천 시스템")
+    st.title("사용자 기반 영화 추천 시스템 수정테스트")
     st.markdown("**유사 사용자 기반 협업 필터링**으로 추천합니다.")
 
     with st.spinner("데이터 로딩 중..."):
